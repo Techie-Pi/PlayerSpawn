@@ -1,0 +1,5 @@
+name: PlayerSpawn
+version: ${project.version}
+main: me.techiepi.playerspawn.Main
+api-version: 1.16
+authors: [TechiePi]
